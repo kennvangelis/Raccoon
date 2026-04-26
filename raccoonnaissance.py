@@ -310,7 +310,7 @@ os.system("jp2a --invert /sdcard/pictures/Screenshot/Screenshot_20260418-211809.
 
 print("[bold cyan]" + "="*75 + "[/bold cyan]")
 print("                           RACCOONNAISSANCE                ")
-print("                      Version 2.0.0 (PROTOTYPE)            ")
+print("                      Version 2.1.0 (PROTOTYPE)            ")
 print("             Created by [bold cyan]Kenn Vangelis[/bold cyan], powered by cloudscraper")
 print("[yellow][NOTE] Pls use this tools with ethics UwU[/yellow]")
 print("[bold cyan]" + "="*75 + "[/bold cyan]")
